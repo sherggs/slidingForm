@@ -1,0 +1,15 @@
+/Users/oluwaseyi/Desktop/C#/NewTest/bin/Debug/net7.0/NewTest
+/Users/oluwaseyi/Desktop/C#/NewTest/bin/Debug/net7.0/NewTest.deps.json
+/Users/oluwaseyi/Desktop/C#/NewTest/bin/Debug/net7.0/NewTest.runtimeconfig.json
+/Users/oluwaseyi/Desktop/C#/NewTest/bin/Debug/net7.0/NewTest.dll
+/Users/oluwaseyi/Desktop/C#/NewTest/bin/Debug/net7.0/NewTest.pdb
+/Users/oluwaseyi/Desktop/C#/NewTest/obj/Debug/net7.0/NewTest.csproj.AssemblyReference.cache
+/Users/oluwaseyi/Desktop/C#/NewTest/obj/Debug/net7.0/NewTest.GeneratedMSBuildEditorConfig.editorconfig
+/Users/oluwaseyi/Desktop/C#/NewTest/obj/Debug/net7.0/NewTest.AssemblyInfoInputs.cache
+/Users/oluwaseyi/Desktop/C#/NewTest/obj/Debug/net7.0/NewTest.AssemblyInfo.cs
+/Users/oluwaseyi/Desktop/C#/NewTest/obj/Debug/net7.0/NewTest.csproj.CoreCompileInputs.cache
+/Users/oluwaseyi/Desktop/C#/NewTest/obj/Debug/net7.0/NewTest.dll
+/Users/oluwaseyi/Desktop/C#/NewTest/obj/Debug/net7.0/refint/NewTest.dll
+/Users/oluwaseyi/Desktop/C#/NewTest/obj/Debug/net7.0/NewTest.pdb
+/Users/oluwaseyi/Desktop/C#/NewTest/obj/Debug/net7.0/NewTest.genruntimeconfig.cache
+/Users/oluwaseyi/Desktop/C#/NewTest/obj/Debug/net7.0/ref/NewTest.dll
